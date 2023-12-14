@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:m5stick-c:DebugLevel=none,EraseFlash=none,PartitionScheme=default,UploadSpeed=1500000",
+    "name": "M5Stick-C",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
