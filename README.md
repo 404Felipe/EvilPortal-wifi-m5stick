@@ -1,4 +1,5 @@
 # EvilPortal-wifi-m5stick
+`DISCLAIMER: This is for educational purposes only. Extracting passwords from unaware victims is illegal`
 
 ## Story
 
